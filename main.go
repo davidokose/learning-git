@@ -1,1 +1,2 @@
-fuc man(){}
+package main 
+func man(){}
